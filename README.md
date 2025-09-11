@@ -12,3 +12,7 @@ Ademas el metodo resumen muestra los nombres y las ideas de cada persona
 
 <img width="432" height="185" alt="image" src="https://github.com/user-attachments/assets/6efb3590-30fb-4d88-8cc6-51b40f9a9730" />
 
+Se creo la clase estudiante con un metodo respuestas para mostrar las respuestas del estudiante
+<img width="716" height="198" alt="image" src="https://github.com/user-attachments/assets/3bf4df85-74bc-4472-8a8f-9f0480224da9" />
+
+
